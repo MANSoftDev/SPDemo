@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="3fecaaf7-cd0e-48b4-a945-c08ac3dbe402" solutionId="3fecaaf7-cd0e-48b4-a945-c08ac3dbe402" resetWebServer="false" name="SPUGDemo" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="14e6f6b4-67ed-4042-8c18-4987f1e68ab9" />
+    <featureReference itemId="d2199c46-85e5-421d-a458-607554f15658" />
+  </features>
+  <projectItems>
+    <projectItemReference itemId="bd2980c1-f98f-4ffa-8854-210570356e87" />
+  </projectItems>
+</package>
